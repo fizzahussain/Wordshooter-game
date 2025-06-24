@@ -5,6 +5,8 @@ Word Shooter is a fast-paced 2D game built from scratch in C++ using OpenGL, dev
 
 ---
 **🔹 Key Features**
+---
+
 Interactive tile-based board (22x31 grid)
 
 Mouse-controlled letter shooting
@@ -43,9 +45,9 @@ Collision detection and animation
 Data structures (arrays, strings)
 
 Event-driven programming and screen refresh cycles
----
 
-**▶️ How to Run**---
+**▶️ How to Run**
+---
 
 
 Open terminal on Linux/Ubuntu
