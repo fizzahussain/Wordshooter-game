@@ -1,4 +1,5 @@
-🎮 Word Shooter – A 2D Vocabulary Shooting Game (C++ & OpenGL)
+#🎮 Word Shooter – A 2D Vocabulary Shooting Game (C++ & OpenGL)
+
 Word Shooter is a fast-paced 2D game built from scratch in C++ using OpenGL, developed as a Programming Fundamentals course project. The player shoots alphabets onto a dynamic grid to form valid English words — horizontally, vertically, or diagonally — all within a 2-minute timer.
 
 🔹 Key Features
